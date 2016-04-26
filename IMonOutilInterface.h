@@ -10,5 +10,5 @@ public:
   DeclareInterfaceID(IG4SaveOutputTool,1, 0);
 
 };
-#endif /* {{include_guard_name}} */
+#endif /* {{interface_include_guard_name}} */
 ~                                                
