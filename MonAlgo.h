@@ -10,6 +10,5 @@ public:
   virtual StatusCode initialize() final;
   virtual StatusCode execute() final;
   virtual StatusCode finalize() final;
-  private:
-
+};
 #endif /* {{include_guard_name}} */
